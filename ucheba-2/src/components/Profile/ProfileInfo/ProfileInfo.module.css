@@ -1,0 +1,11 @@
+.profileDescription{
+    padding: 10px;
+}
+.photoUrl{
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 100px;
+}
+.contacts{
+    margin: 0 0 0 10px;
+}

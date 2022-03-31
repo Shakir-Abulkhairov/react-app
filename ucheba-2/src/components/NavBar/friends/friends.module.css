@@ -1,0 +1,21 @@
+
+.container{
+  margin: 70px 0 0 0;
+}
+.block {
+  height: 30px;
+  width: 30px;
+  float: left;
+  margin: 8px ;
+}
+.img{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+.title{
+  font-size: 30px;
+}
+.name{
+  padding:  5px ;
+}

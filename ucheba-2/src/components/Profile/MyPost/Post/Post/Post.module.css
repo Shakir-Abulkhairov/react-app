@@ -1,0 +1,8 @@
+.item{
+  color: brown;
+  font-size: 30px;
+}
+.item img{
+  width: 50px;
+  border-radius:30px ;
+}

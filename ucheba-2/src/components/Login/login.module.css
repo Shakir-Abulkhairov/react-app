@@ -1,0 +1,26 @@
+.box{
+    height:50px;
+    font-size:30px;
+    font-weight: bold;
+}
+.pass{
+    margin-top:20px;
+    height:50px;
+    font-size:30px;
+    font-weight: bold;
+}
+.btn{
+    width:100px;
+    height:30px;
+}
+.btn:hover{
+    background-color:black;
+    color: white;
+    transition: all 0.6s
+}
+h1{ 
+    padding: 30px 0 30px 0;
+    font-size: 50px;
+    color:aliceblue;
+    font-weight: bold;
+}
